@@ -1,0 +1,11 @@
+.messages {
+  border: 1px solid black;
+  padding: 10px;
+  height: 300px;
+  width: 300px;
+  overflow-y: scroll;
+}
+
+.button {
+  border: 2px solid blueviolet;
+}
